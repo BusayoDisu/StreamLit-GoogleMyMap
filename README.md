@@ -23,3 +23,6 @@ There is a critical need for a solution that optimizes the process by integratin
 
 ### Link to the project 
 https://colab.research.google.com/drive/1NHZFjNzdyCANd5YrvcPPHWlHMSxW3SPE
+
+### Link to the app
+https://app-appmymap-j2zjf8b7e2hxbe3ztg54yx.streamlit.app/
